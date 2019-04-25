@@ -33,9 +33,9 @@ vary <- list(
 
 You feel marginally reassured that these notes will come in handy if you can survive the evening. You fumble through your memories, aligning what little you know to the answers you seek.
 
-"*Each set of variables are grouped together, under the respective names specified manually in the list  
-- name_N grouped to name  
-- loc_N grouped to loc*"
+"*Each set of variables are grouped together, under the respective names specified manually in the list*  
+*- name_N grouped to name*  
+*- loc_N grouped to loc*"
 
 ```{r}
 reshape(
