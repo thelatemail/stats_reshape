@@ -1,6 +1,13 @@
+---
+title: "The Lovecraftian Guide to stats::reshape"
+output:
+  html_document:
+    self_contained: no
+---
 
 
-# The Lovecraftian Guide to stats::reshape
+
+<img src="cthulu_r.png" width="251" />
 
 Dear reader, I hope to show once and for all that the `reshape` function included with R in the 'stats' package is not what it purports to be. It is much more.
 
