@@ -1,11 +1,4 @@
----
-title: "The Lovecraftian Guide to stats::reshape"
-output:
-  html_document:
-    self_contained: no
----
-
-
+# The Lovecraftian Guide to stats::reshape
 
 <img src="cthulu_r.png" width="251" />
 
